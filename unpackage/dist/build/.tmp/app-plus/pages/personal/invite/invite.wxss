@@ -1,7 +1,0 @@
-
-.tg-nav01.data-v-4e17304e{ width: 540rpx; height: 960rpx; margin: 40rpx 105rpx;}
-.tg-img01.data-v-4e17304e{width: 540rpx;}
-.tg-nav02.data-v-4e17304e{ text-align: center;}
-.tg-t01.data-v-4e17304e{ margin-bottom: 30rpx; font-size:24rpx;font-family:PingFang-SC-Medium;font-weight:500;color:rgba(122,141,165,1);}
-.fuzhi.data-v-4e17304e{width:270rpx; display: inline-block; text-align: center; height:64rpx; line-height: 64rpx;background:rgba(38,130,255,1); -webkit-box-shadow:0px 6rpx 6rpx 0px rgba(201,224,255,1); box-shadow:0px 6rpx 6rpx 0px rgba(201,224,255,1);border-radius:32rpx;font-size:28rpx;font-family:PingFang-SC-Medium;font-weight:500;color:rgba(254,254,254,1);}
-

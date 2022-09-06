@@ -1,5 +1,0 @@
-
-.loadbox{ width: 200rpx; text-align: center; margin: 0 auto;}
-.loadimg{ width: 100%; display: inline-block;}
-.loadtext{ font-size: 32rpx;}
-

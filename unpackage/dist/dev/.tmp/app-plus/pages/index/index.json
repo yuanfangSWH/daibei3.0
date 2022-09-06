@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control",
-    "uni-notice-bar": "/components/uni-notice-bar/uni-notice-bar"
-  }
-}

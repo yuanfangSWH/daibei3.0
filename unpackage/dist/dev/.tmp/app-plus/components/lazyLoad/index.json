@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "loading-export": "/components/lazyLoad/animation/loadingExport",
-    "error-export": "/components/lazyLoad/animation/errorExport"
-  },
-  "component": true
-}

@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "订单",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "uni-segmented-control": "/components/uni-segmented-control2/uni-segmented-control"
-  }
-}

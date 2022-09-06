@@ -1,1 +1,0 @@
-<view><view data-event-opts="{{[['tap',[['iosFun',['$event']]]]]}}" class="ceshi" bindtap="__e">下载ios</view></view>

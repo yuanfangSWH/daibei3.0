@@ -1,8 +1,0 @@
-
-page.data-v-41a47323{ background: #F3F6FB;}
-.content.data-v-41a47323{ width: 690rpx; margin: 0 30rpx;}
-.yj-title.data-v-41a47323{ padding: 20rpx 0; font-size:32rpx;font-family:PingFang SC;font-weight:bold;color:rgba(34,36,39,1);}
-.yj-nav.data-v-41a47323{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; background: #FFFFFF; border-radius: 8rpx; padding: 20rpx 30rpx; margin-bottom: 18rpx; font-size:26rpx;font-family:PingFang SC;font-weight:bold;color:rgba(49,56,62,1);}
-.yj-time.data-v-41a47323{ -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1;}
-.zanwuyj.data-v-41a47323{ width: 100%; text-align: center; padding: 120rpx 0; font-size: 28rpx;}
-

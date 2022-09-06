@@ -1,7 +1,0 @@
-
-.xinyongka{ width: 750rpx; height: auto;}
-.xyk-t01{ width:690rpx; margin: 20rpx 30rpx 160rpx; font-size: 32rpx; color: #222; line-height: 54rpx;}
-.fixed-apply{ width: 750rpx; position: fixed; left: 0; bottom: 0; height: 130rpx; border-top: 1rpx solid #EAF1F8; background: #FFFFFF; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex;}
-.benren-apply{ margin-left: 22rpx; margin-top: 20rpx; -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; height:86rpx; line-height: 86rpx; border:1rpx solid rgba(31,142,255,1);border-radius:43rpx;font-size:36rpx;font-family:PingFang-SC-Medium;font-weight:500;color:rgba(31,142,255,1); text-align: center;}
-.tuiguang{ margin:0 22rpx; margin-top: 20rpx; -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; width: 340rpx; height:86rpx; line-height: 86rpx; background:rgba(31,142,255,1);-webkit-box-shadow:0px 6rpx 14rpx 0px rgba(132,192,252,1);box-shadow:0px 6rpx 14rpx 0px rgba(132,192,252,1);border-radius:43rpx;font-size:36rpx;font-family:PingFang-SC-Medium;font-weight:500;color:#fff; text-align: center;}
-
