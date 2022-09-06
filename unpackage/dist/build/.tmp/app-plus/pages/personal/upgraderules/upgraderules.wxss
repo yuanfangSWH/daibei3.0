@@ -1,0 +1,22 @@
+
+.rule-box{ width: 630rpx; padding: 30rpx; margin: 30rpx; background: #FFFFFF;-webkit-box-shadow:0px 3rpx 20rpx 1rpx rgba(228,235,245,1);box-shadow:0px 3rpx 20rpx 1rpx rgba(228,235,245,1);}
+.rule-a01{ width: 630rpx; text-align: center; font-size: 26rpx; color: #5A6A80;}
+.rule-a02{ width: 630rpx; text-align: center; font-size: 60rpx; color: #222325; font-weight: bold;}
+.rule-a03{ width: 630rpx; height: 145rpx;background:rgba(38,145,255,1);border-radius:10rpx; margin-top: 26rpx;}
+.rule-a03-left{ float: left; width: 50%; text-align: center; padding-top: 24rpx;}
+.rule-b01{ font-size: 26rpx; color: #E5EFFF;}
+.rule-b02{ font-size: 34rpx; color: #FFFFFF; padding-top: 16rpx; font-weight: bold;}
+.rule-a03-right{ float: left; width: 50%; text-align: center; padding-top: 24rpx;}
+.rule-a04{ width: 630rpx; text-align: center; height: 30rpx; padding: 14rpx 0 20rpx;}
+.rule-img01{ width: 54rpx; height: 24rpx;position: relative; top: 3rpx;}
+.rule-text01{ font-size: 22rpx; color: #3E4857; line-height: 30rpx; height: 30rpx; margin-left: 20rpx;}
+.rule-tab{ width: 690rpx; margin: 20rpx 30rpx;}
+.rule-t02{ font-size: 26rpx; color: #5A6A80; line-height: 48rpx; padding: 30rpx 0 20rpx;}
+.rule-table01{ width: 690rpx; border-top-left-radius: 16rpx; border-top-right-radius: 16rpx; border-left: 1rpx solid #E1EBF9;}
+.rule-table01 ._th{ background: #2691FF; color: #FFFFFF; font-size: 22rpx; font-weight: bold; padding: 30rpx 0; border-right: 1rpx solid #E1EBF9;}
+.rule-table01 ._td{ font-size: 24rpx; color: #565D67; text-align: center; border-bottom: 1rpx solid #E1EBF9; border-right: 1rpx solid #E1EBF9; padding: 30rpx 0;}
+.rule-tab-t{ width: 690rpx; font-size: 28rpx; color: #3E4857; padding: 40rpx 0; font-weight: bold;}
+.rule-tab-nav{ width: 690rpx; font-size: 26rpx; color: #5A6A80; line-height: 44rpx;}
+.rule-img02{ width: 552rpx; height: 137rpx; margin: 20rpx 0;}
+.rule-text02{ color: #2691FF;}
+

@@ -1,0 +1,12 @@
+
+.cus-box{ width: 690rpx; padding: 30rpx;}
+.cus-title{ font-size: 34rpx; font-weight: bold; padding-bottom: 50rpx;}
+.cus-nav01{ width: 100%; display: inline-block;height:240rpx;background:-o-linear-gradient(141deg,rgba(85,117,255,1),rgba(60,175,255,1));background:linear-gradient(-51deg,rgba(85,117,255,1),rgba(60,175,255,1));-webkit-box-shadow:0px 7rpx 6rpx 0px rgba(208,220,255,1), 0px 3rpx 7rpx 0px rgba(80,146,255,1);box-shadow:0px 7rpx 6rpx 0px rgba(208,220,255,1), 0px 3rpx 7rpx 0px rgba(80,146,255,1);}
+.cus-kf{ display: inline-block; text-align: center; margin: 26rpx 0 0 30rpx; float: left;}
+.cus-ewm{ width: 140rpx; height: 140rpx; display: inline-block;
+}
+.ewm-tis{ font-size: 24rpx; color: #FFFFFF;}
+.cus-time{ display: inline-block; float: left; margin: 72rpx 0 0 50rpx;}
+.cus-a{ font-size: 24rpx; color: #D8E2FF; padding-bottom: 20rpx;}
+.cus-b{ font-size: 28rpx; color: #FFFFFF;}
+

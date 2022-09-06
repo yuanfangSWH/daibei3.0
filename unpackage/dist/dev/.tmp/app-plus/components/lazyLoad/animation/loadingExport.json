@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "loading1": "/components/lazyLoad/animation/loading-1"
+  },
+  "component": true
+}

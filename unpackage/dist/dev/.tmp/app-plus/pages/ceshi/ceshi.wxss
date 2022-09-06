@@ -1,0 +1,3 @@
+
+.ceshi{ width: 200rpx; height: 80rpx; background: #007AFF; line-height: 80rpx; color: #FFFFFF; margin-top: 200rpx; font-size: 32rpx; margin-left: 60rpx; text-align: center;}
+

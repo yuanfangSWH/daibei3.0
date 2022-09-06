@@ -1,0 +1,6 @@
+
+page{ background: #FFFFFF;}
+.ql-title{ font-size: 36rpx; font-weight: bold; color: #000000; width:690rpx; margin: 0 30rpx; padding: 26rpx 0 16rpx; border-bottom: 1rpx solid #e8ecf1;}
+.ql-editor{ font-size: 28rpx; color: #494949; line-height: 48rpx; width:690rpx; margin: 20rpx 30rpx 0; padding-bottom: 30rpx;}
+.s-title{ font-weight: bold; color: #222222;}
+

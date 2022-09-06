@@ -1,0 +1,1 @@
+<view class="page" id="scroll"><block wx:for="{{3}}" wx:for-item="n" wx:for-index="__i0__" wx:key="*this"><view class="item"><v-lazyload vue-id="{{'1-'+__i0__}}" src="{{'/static/tg-img'+n+'.png'}}" mode="widthFix" bind:__l="__l"></v-lazyload></view></block></view>

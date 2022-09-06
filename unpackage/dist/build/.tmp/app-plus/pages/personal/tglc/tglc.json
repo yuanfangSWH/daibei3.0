@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "推广流程",
+  "usingComponents": {
+    "v-lazyload": "/components/lazyLoad/index"
+  }
+}

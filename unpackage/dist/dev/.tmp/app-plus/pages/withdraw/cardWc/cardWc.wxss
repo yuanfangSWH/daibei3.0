@@ -1,0 +1,8 @@
+
+.wc-box.data-v-05e4538b{ text-align: center; margin: 100rpx 0 120rpx;}
+.wcImg.data-v-05e4538b{ width: 166rpx; height: 166rpx;
+}
+.wc-t.data-v-05e4538b{font-size:36rpx;font-family:PingFang-SC-Medium;font-weight:bold;color:rgba(0,0,0,1);}
+.btn-row.data-v-05e4538b{ margin: 50rpx 50rpx 0;}
+.loan-btn.data-v-05e4538b{background:rgba(37,123,255,1);border-radius:46rpx;}
+

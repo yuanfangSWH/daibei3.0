@@ -1,0 +1,1 @@
+<view><block wx:if="{{pinz}}"><view class="img404"><image src="../../static/404.jpg"></image></view></block></view>

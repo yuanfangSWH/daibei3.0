@@ -1,0 +1,1 @@
+<view><block wx:if="{{visible}}"><view class="loadbox"><image class="loadimg" src="../../static/loading.gif" mode="widthFix"></image><view class="loadtext">{{text}}</view></view></block></view>

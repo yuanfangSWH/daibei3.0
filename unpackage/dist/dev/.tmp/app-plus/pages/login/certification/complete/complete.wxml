@@ -1,0 +1,1 @@
+<view class="content"><text class="login-t3 mr-120">您已通过实名认证</text><view class="login-ts2">现在您可以开始使用代呗</view><view class="img-nav"><image class="wc-img" src="../../../../static/tu.png"></image></view><view class="btn-row"><button class="loan-btn" type="primary" data-event-opts="{{[['tap',[['rzCard',['$event']]]]]}}" bindtap="__e">完成</button></view></view>

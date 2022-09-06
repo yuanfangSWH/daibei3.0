@@ -1,0 +1,18 @@
+
+page{ background: #F1F4F8;}
+.uni-swiper-tab { width: 100%;white-space: nowrap; height: 60rpx; padding: 26rpx 0 30rpx;}
+.zn-tab{ width: 750rpx; float: left; background: #FFFFFF;}
+.uni-padding-wrap{ width: 690rpx; padding: 30rpx 30rpx 0; border-bottom: 1rpx solid #EEF3F9;}
+.content{ width: 690rpx; padding: 0 30rpx;}
+.db-tab-box{ width: 100%; float: left; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin-top: 30rpx; padding-bottom: 30rpx;}
+.db-tab-child{ width:auto; display: inline-block; padding: 0 20rpx; -webkit-box-sizing: border-box; box-sizing: border-box; font-size: 24rpx; color: #A2ADB9; margin-right: 20rpx; border: 1px solid #A2ADB9; border-radius: 50rpx; text-align: center; line-height: 50rpx; height: 50rpx;}
+.tactive{ color: #459BFF !important; border-color: #459BFF !important;}
+.zn-content{ width: 750rpx; float: left;}
+.content-nav{ width: 330rpx; margin-left: 30rpx; margin-top: 30rpx; float: left; overflow: hidden; background: #FFFFFF;}
+.con-img{ width: 330rpx; height: 194rpx; float: left;}
+.con-t{ width: 290rpx; padding: 20rpx 20rpx 10rpx; float: left;
+}
+.con-icon01{ width: 28rpx; height: 28rpx; float: left; border-radius: 100%;}
+.zn-t{ width: 252rpx; float: right; font-size: 28rpx; color: #000000; line-height: 28rpx; height: 28rpx; overflow: hidden;}
+.zn-fw{ width: 290rpx; padding: 0 20rpx; float: left; font-size: 22rpx; color: #868789; padding-bottom: 20rpx;}
+

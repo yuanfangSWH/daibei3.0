@@ -1,0 +1,33 @@
+
+.jtIcon{ width: 24rpx; height: 24rpx; margin-left: 10rpx;}
+.sunui-grand-hide-bg {
+		background-color: #e9ecef;
+		position: relative;
+}
+.sunui-grand-show-bg {
+		background-color: #e9ecef;
+}
+.sunui-grand-summary {
+		overflow: hidden;
+		-o-text-overflow: clip;
+		   text-overflow: clip;
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+}
+.sunui-grand-show-btn {
+		width: 100%;
+		position: absolute;
+		left: 0;
+    top: 90rpx !important;
+		z-index: 0;
+		text-align: right;
+		background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(233, 236, 239, 0)), color-stop(80%, #fff));
+		background-image: -o-linear-gradient(top, rgba(233, 236, 239, 0) 0%, #fff 80%);
+		background-image: linear-gradient(-180deg, rgba(233, 236, 239, 0) 0%, #fff 80%);
+}
+.sunui-grand-hide-btn {
+    position: absolute;
+    right: 0;
+		text-align: right;
+}
+

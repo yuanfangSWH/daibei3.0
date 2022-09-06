@@ -1,0 +1,12 @@
+
+.ftBox.data-v-7ce34f1c{ width: 750rpx;}
+.ftmain.data-v-7ce34f1c{ width: 698rpx; margin: 26rpx;}
+.ftCon.data-v-7ce34f1c{ width: 698rpx; padding: 20rpx 0; font-size: 28rpx; line-height: 48rpx; min-height: 200rpx;}
+.ft-add.data-v-7ce34f1c{ width: 100%; margin-top: 30rpx; display: inline-block;}
+.addimg.data-v-7ce34f1c{ width: 218rpx; height: 218rpx;}
+.ftTip.data-v-7ce34f1c{ color: #A0A2A5; font-size:22rpx;font-family:PingFang-SC-Medium; margin-top: 20rpx; line-height: 42rpx;}
+.ftBtn.data-v-7ce34f1c{ position: fixed; left: 0; bottom: 0; display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; width: 750rpx;}
+.fabuBtn.data-v-7ce34f1c{ -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; border:none !important; background: #CCCCCC; color: #FFFFFF;font-size:34rpx;font-family:PingFang-SC-Medium; border-radius: 0 !important;}
+.fabuBtn.data-v-7ce34f1c:after{ border: none !important; border-radius: 0rpx !important;}
+.active01.data-v-7ce34f1c{ background: #257BFF !important;}
+

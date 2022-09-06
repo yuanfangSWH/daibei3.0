@@ -1,0 +1,12 @@
+
+.content{ width: 650rpx; margin: 30rpx 50rpx;}
+.uni-input-row{ border-bottom: 1rpx solid #E6E6E6; margin-bottom: 50rpx;}
+.db-sm-t{font-size:30rpx;font-family:PingFang-SC-Medium;color:rgba(71,78,88,1); padding-bottom: 20rpx;}
+.db-ipt01{font-size:36rpx;font-family:PingFang-SC-Medium;font-weight:500; padding-bottom: 16rpx;}
+.code-v{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex;}
+.code-v .db-ipt01{ -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1;}
+.code{ width:184rpx;height:57rpx; line-height: 57rpx; background:rgba(37,123,255,1);border-radius:29rpx;font-size:28rpx; text-align: center; font-family:PingFang-SC-Medium;font-weight:500;color:rgba(255,255,255,1);}
+.xieyi-box{font-size:26rpx;font-family:PingFang-SC-Medium;font-weight:500;color:rgba(177,177,177,1);}
+.xieyi-box text{ color: #257BFF;}
+.register-btn{ margin-top: 30rpx; height:87rpx;background:rgba(37,123,255,1);border-radius:44rpx; border: none; line-height: 87rpx; color: #FFFFFF; text-align: center;font-size:34rpx;font-family:PingFang-SC-Medium;font-weight:500;}
+

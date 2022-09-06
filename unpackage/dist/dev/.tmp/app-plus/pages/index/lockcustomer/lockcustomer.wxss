@@ -1,0 +1,49 @@
+
+page.data-v-a80bcb7e{ background: #F1F4F8;}
+.lockbox.data-v-a80bcb7e{ width: 750rpx; position: relative;}
+.limg.data-v-a80bcb7e{ width: 750rpx;}
+.conbox.data-v-a80bcb7e{ position: absolute; z-index: 2; left: 0; top: 340rpx; width: 750rpx;}
+.nav01.data-v-a80bcb7e{ background-color: #FFFFFF; width: 690rpx; margin: 0 30rpx 160rpx; border-radius: 10rpx; -webkit-box-sizing: border-box; box-sizing: border-box; padding: 30rpx 30rpx 40rpx;-webkit-box-shadow:0px 10rpx 24rpx 0px rgba(23,39,11,.1);box-shadow:0px 10rpx 24rpx 0px rgba(23,39,11,.1);}
+.l-title.data-v-a80bcb7e{font-size:32rpx;font-weight:bold;color:rgba(0,0,0,1);}
+.cailiao-lc.data-v-a80bcb7e {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 30rpx 0 0;
+}
+.cailiao-nav.data-v-a80bcb7e {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	text-align: center;
+}
+.cailiao-a01 image.data-v-a80bcb7e {
+	width: 47rpx;
+	height: 47rpx;
+}
+.cailiao-a02.data-v-a80bcb7e {
+	font-size: 22rpx;
+	font-family: PingFang-SC-Medium;
+	font-weight: 400;
+	color: #000;
+	padding-top: 12rpx;
+	line-height: 42rpx; text-align: center;
+}
+.cailiao-icon image.data-v-a80bcb7e {
+	width: 47rpx;
+	height: 47rpx;
+}
+.lcwenzi.data-v-a80bcb7e{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin-bottom: 54rpx;}
+.w01.data-v-a80bcb7e{ width: 20%; margin-right: 2%;}
+.w02.data-v-a80bcb7e{ width: 27%;}
+.w03.data-v-a80bcb7e{ width: 28%;}
+.w04.data-v-a80bcb7e{ width: 21%; margin-left: 2%;}
+.smnav.data-v-a80bcb7e{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; margin-top: 30rpx;}
+.dian.data-v-a80bcb7e{ float: left; width: 10rpx; height: 10rpx; margin-top: 18rpx; margin-right: 16rpx;}
+.nr.data-v-a80bcb7e{ font-size:30rpx;font-family:PingFang SC;font-weight:400;color:rgba(0,0,0,1); -webkit-box-flex: 1; -webkit-flex: 1; -ms-flex: 1; flex: 1; line-height: 48rpx;}
+.nr text.data-v-a80bcb7e{ color: #309EFF;}
+.lockfot.data-v-a80bcb7e{ width: 750rpx; height: 134rpx; background: #FFFFFF; position: fixed; z-index: 10; left: 0; bottom: 0;}
+.locktg.data-v-a80bcb7e{width:690rpx; margin: 16rpx 30rpx 0; text-align: center; color: #FFFFFF; font-size: 30rpx;font-family:PingFang SC; height:88rpx; line-height: 88rpx; background:rgba(38,130,255,1);border:1px solid rgba(70,151,255,1);-webkit-box-shadow:0px 6rpx 14rpx 0px rgba(132,192,252,1);box-shadow:0px 6rpx 14rpx 0px rgba(132,192,252,1);border-radius:44rpx;}
+

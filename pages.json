@@ -1,0 +1,406 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/bbs/sousuo/sousuo",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/bbs/bbs",
+			"style": {
+				"navigationBarTitleText": "社区",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/NewsDetails/NewsDetails",
+			"style": {
+				"navigationBarTitleText": "代呗头条"
+			}
+		}, {
+			"path": "pages/guide/guide",
+			"style": {
+				"navigationBarTitleText": "操作指南"
+			}
+		}, {
+			"path": "pages/guideDetails/guideDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/login/code/code",
+			"style": {
+				"navigationBarTitleText": "验证码"
+			}
+		}, {
+			"path": "pages/login/findpassword/findpassword",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		}, {
+			"path": "pages/login/pwdlogin/pwdlogin",
+			"style": {
+				"navigationBarTitleText": "密码登录"
+			}
+		}, {
+			"path": "pages/login/setpwd/setpwd",
+			"style": {
+				"navigationBarTitleText": "设置密码"
+			}
+		}, {
+			"path": "pages/login/certification/certification",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		}, {
+			"path": "pages/login/certification/complete/complete",
+			"style": {
+				"navigationBarTitleText": "实名认证完成"
+			}
+		}, {
+			"path": "pages/personal/personal",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		}, {
+			"path": "pages/personal/order/order",
+			"style": {
+				"navigationBarTitleText": "订单",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/personal/team/team",
+			"style": {
+				"navigationBarTitleText": "下属团队"
+			}
+		}, {
+			"path": "pages/personal/customer/customer",
+			"style": {
+				"navigationBarTitleText": "在线客服"
+			}
+		}, {
+			"path": "pages/personal/upgraderules/upgraderules",
+			"style": {
+				"navigationBarTitleText": "奖励规则"
+			}
+		}, {
+			"path": "pages/personal/question/question",
+			"style": {
+				"navigationBarTitleText": "常见问题"
+			}
+		}, {
+			"path": "pages/personal/notice/notice",
+			"style": {
+				"navigationBarTitleText": "通知"
+			}
+		}, {
+			"path": "pages/personal/shouzhi/shouzhi",
+			"style": {
+				"navigationBarTitleText": "收支明细",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/personal/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		}, {
+			"path": "pages/index/details/details",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/index/hehuoDetails/hehuoDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		
+		{
+			"path": "pages/index/poster/poster",
+			"style": {
+				"navigationBarTitleText": "推广海报"
+			}
+		},
+		// 测试
+		 {
+		 	"path": "pages/personal/accceshi/accceshi",
+		 	"style": {
+		 		"navigationBarTitleText": "测试"
+		 	}
+		 },
+		{
+			"path": "pages/index/loanApply/loanApply",
+			"style": {
+				"navigationBarTitleText": "申请贷款"
+			}
+		}, {
+			"path": "pages/index/apply/apply",
+			"style": {}
+		}, {
+			"path": "pages/index/historyapply/historyapply",
+			"style": {
+				"navigationBarTitleText": "申请贷款"
+			}
+		}, {
+			"path": "pages/index/cardApply/cardApply",
+			"style": {
+				"navigationBarTitleText": "拉新产品申请"
+			}
+		}, {
+			"path": "pages/bbsDetails/bbsDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/bbs/posted/posted",
+			"style": {
+				"navigationBarTitleText": "发帖"
+			}
+		}, {
+			"path": "pages/index/loanposter/loanposter",
+			"style": {
+				"navigationBarTitleText": "推广海报"
+			}
+		}, {
+			"path": "pages/withdraw/withdraw",
+			"style": {
+				"navigationBarTitleText": "提现"
+			}
+		}, {
+			"path": "pages/withdraw/addbank/addbank",
+			"style": {
+				"navigationBarTitleText": "添加银行卡"
+			}
+		}, {
+			"path": "pages/withdraw/affirmInfo/affirmInfo",
+			"style": {
+				"navigationBarTitleText": "银行卡信息确认"
+			}
+		}, {
+			"path": "pages/withdraw/cardWc/cardWc",
+			"style": {
+				"navigationBarTitleText": "绑卡成功"
+			}
+		}, {
+			"path": "pages/withdraw/tixianSuccess/tixianSuccess",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/withdraw/tixianfail/tixianfail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/withdraw/unbundle/unbundle",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/withdraw/unbundleSucc/unbundleSucc",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/index/cardhistoryapply/cardhistoryapply",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/personal/invite/invite",
+			"style": {
+				"navigationBarTitleText": "招募合伙人"
+			}
+		},
+		{
+			"path": "pages/bbsDetails/bbscard/bbscard",
+			"style": {
+				"navigationBarTitleText": "修改名片"
+			}
+		},
+		{
+			"path": "pages/personal/hehuoRegister/hehuoRegister",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/personal/performance/performance",
+			"style": {
+				"navigationBarTitleText": "历史业绩",
+				"enablePullDownRefresh": true
+			}
+		}, {
+			"path": "pages/personal/tglc/tglc",
+			"style": {
+				"navigationBarTitleText": "推广流程"
+			}
+		},
+		{
+			"path": "pages/personal/apptgjc/apptgjc",
+			"style": {
+				"navigationBarTitleText": "合伙人推广指南"
+			}
+		},
+		{
+			"path": "pages/personal/friends/friends",
+			"style": {
+				"navigationBarTitleText": "邀请好友"
+			}
+		},
+		{
+			"path": "pages/personal/loantg/loantg",
+			"style": {
+				"navigationBarTitleText": "贷款推广"
+			}
+		}, {
+			"path": "pages/personal/smRegister/smRegister",
+			"style": {
+				"navigationBarTitleText": "扫码注册"
+			}
+		}, {
+			"path": "pages/Andriodownload/Andriodownload",
+			"style": {
+				"navigationBarTitleText": "APP下载安装"
+			}
+		}, {
+			"path": "pages/IOSdowmload/IOSdowmload",
+			"style": {
+				"navigationBarTitleText": "ios下载"
+			}
+		}, {
+			"path": "pages/guanzhuGzh/guanzhuGzh",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/personal/smLongPic/smLongPic",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/personal/customerGl/customerGl",
+			"style": {
+				"navigationBarTitleText": "客户管理"
+			}
+		}, {
+			"path": "pages/index/selfApply/selfApply",
+			"style": {}
+		}, {
+			"path": "pages/index/lockcustomer/lockcustomer",
+			"style": {
+				"navigationBarTitleText": "锁定客户"
+			}
+		}, {
+			"path": "pages/index/cardDetails/cardDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/loading/loading",
+			"style": {}
+		}, {
+			"path": "pages/index/ptDetails/ptDetails",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}, {
+			"path": "pages/agreement/agreement",
+			"style": {}
+		}, {
+			"path": "pages/ceshi/ceshi",
+			"style": {}
+		}, {
+			"path": "pages/download/download",
+			"style": {
+				"navigationBarTitleText": "下载"
+			}
+		}, {
+			"path": "pages/failure/failure",
+			"style": {
+				"navigationBarTitleText": "404"
+			}
+		}, {
+			"path": "pages/personal/usbthe/usbthe",
+			"style": {
+				"navigationBarTitleText": "设置中心"
+			}
+		}, {
+			"path": "pages/personal/replace/replace",
+			"style": {
+				"navigationBarTitleText": "更换手机号"
+			}
+		}, {
+			"path": "pages/personal/replacecg/replacecg",
+			"style": {
+				"navigationBarTitleText": "更手机号成功"
+			}
+		}, {
+			"path": "pages/personal/about/about",
+			"style": {
+				"navigationBarTitleText": "关于代呗"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		//tab 上的文字默认颜色
+		"color": "#A1AFBF",
+		//tab 上的文字选中时的颜色
+		"selectedColor": "#2A8CFB",
+		//tab 的背景色
+		"backgroundColor": "#FFFFFF",
+		//tabbar 上边框的颜色，仅支持 black/white
+		"borderStyle": "black",
+		"list": [{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/index/index",
+				//图片路径
+				"iconPath": "static/home01.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/home02.png",
+				//tab 上按钮文字
+				"text": "首页"
+			},
+			{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/bbs/bbs",
+				//图片路径
+				"iconPath": "static/bbs01.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/bbs02.png",
+				//tab 上按钮文字
+				"text": "社区"
+			},
+			{
+				//页面路径，必须在 pages 中先定义
+				"pagePath": "pages/personal/personal",
+				//图片路径
+				"iconPath": "static/user01.png",
+				//选中时的图片路径
+				"selectedIconPath": "static/user02.png",
+				//tab 上按钮文字
+				"text": "个人中心"
+			}
+		]
+	}
+}

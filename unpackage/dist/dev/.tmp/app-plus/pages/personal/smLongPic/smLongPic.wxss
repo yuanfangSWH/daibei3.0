@@ -1,0 +1,20 @@
+
+.hh-img.data-v-1a7bfe6b {
+	width: 750rpx;
+	float: left;
+}
+.btnBox.data-v-1a7bfe6b {
+	width: 750rpx;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	height: 120rpx;
+	line-height: 120rpx;
+	color: #FFFFFF;
+	font-size: 42rpx;
+	background: -webkit-gradient(linear, left bottom, left top, from(rgba(255, 97, 60, 1)), to(rgba(255, 155, 66, 1)));
+	background: -o-linear-gradient(bottom, rgba(255, 97, 60, 1), rgba(255, 155, 66, 1));
+	background: linear-gradient(0deg, rgba(255, 97, 60, 1), rgba(255, 155, 66, 1));
+}
+

@@ -1,0 +1,253 @@
+
+page {
+	background: #F1F4F8;
+}
+.content {
+	width: 690rpx;
+	margin: 0 30rpx 30rpx;
+	float: left;
+}
+.team-nav01 {
+	width: 690rpx;
+	float: left;
+	margin: 30rpx 0;
+}
+.team-title {
+	font-size: 32rpx;
+	color: #222427;
+	font-weight: bold;
+	line-height: 48rpx;
+}
+.team-con {
+	width: 690rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 16rpx;
+	padding: 0 0 40rpx;
+	margin-top: 30rpx;
+}
+.team-con02 {
+	width: 590rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 16rpx;
+	padding: 50rpx 50rpx;
+	margin-top: 30rpx;
+	float: left;
+	-webkit-box-shadow: 0px 6rpx 20rpx 0px rgba(115, 153, 206, 0.1);
+	        box-shadow: 0px 6rpx 20rpx 0px rgba(115, 153, 206, 0.1);
+}
+.team-a01 {
+	float: left;
+}
+.tj-peple {
+	width: 96rpx;
+	height: 96rpx;
+	border-radius: 100%;
+	float: left;
+}
+.tj-name {
+	float: left;
+	line-height: 96rpx;
+	font-size: 32rpx;
+	color: #000000;
+	margin-left: 20rpx;
+	font-weight: bold;
+}
+.team-a02 {
+	float: right;
+	margin-top: 7rpx;
+}
+.kf-weixin {
+	width: 82rpx;
+	height: 82rpx;
+	float: left;
+}
+.kf-weixin2 {
+	width: 82rpx;
+	height: 82rpx;
+	float: left;
+	margin-right: 60rpx;
+}
+.kf-phone {
+	width: 82rpx;
+	height: 82rpx;
+	float: left;
+}
+.ke-t {
+	width: 690rpx;
+	float: left;
+	text-align: center;
+	font-size: 24rpx;
+	color: #6E737B;
+	margin-top: 20rpx;
+}
+.team-con03 {
+	width: 690rpx;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 16rpx;
+	padding: 20rpx 0;
+	margin-top: 30rpx;
+	float: left;
+	-webkit-box-shadow: 0px 6rpx 20rpx 0px rgba(115, 153, 206, 0.1);
+	        box-shadow: 0px 6rpx 20rpx 0px rgba(115, 153, 206, 0.1);
+}
+.team-yj-01 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 610rpx;
+	padding: 0 40rpx 0;
+}
+.yj-tx {
+	width: 75rpx;
+	height: 75rpx;
+	border-radius: 75rpx;
+	margin-top: 20rpx;
+}
+.yj-uinfo {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	margin-left: 20rpx;
+}
+.yj-a {
+	font-size: 30rpx;
+	color: #000000;
+}
+.yj-b {
+	font-size: 24rpx;
+	color: #98A7B8;
+	padding: 10rpx 0;
+}
+.yj-c {
+	width: 100%;
+}
+.time-t {
+	float: left;
+	font-size: 24rpx;
+	color: #98A7B8;
+}
+.tdyj {
+	float: right;
+	font-size: 25rpx;
+	color: #2C8BFB;
+}
+.team-yj-02 {
+	width: 590rpx;
+	padding: 0 50rpx;
+	margin-top: 24rpx;
+	border-top: 1rpx solid #E6EDF7;
+}
+.team-c-left {
+	float: left;
+}
+.team-c-right {
+	float: right;
+}
+.tc-01 {
+	padding: 20rpx 0;
+}
+.tc-01,
+.tc-02 {
+	font-size: 22rpx;
+	color: #98A7B8;
+}
+.tc-text {
+	font-size: 30rpx;
+	color: #434A52;
+	padding: 0 16rpx;
+	font-weight: bold;
+}
+.lishiyj {
+	float: right;
+	font-size: 26rpx;
+	font-family: PingFang-SC-Medium;
+	font-weight: 500;
+	color: rgba(38, 145, 255, 1);
+}
+.td-nav1 {
+	background: #2691FF;
+	border-top-right-radius: 16rpx;
+	border-top-left-radius: 16rpx;
+}
+.td-n01 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+}
+.td-nav1-left,
+.td-nav1-right {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	text-align: center;
+	color: #FFFFFF;
+}
+.left-01 {
+	font-size: 26rpx;
+	font-family: PingFang-SC-Medium;
+	font-weight: 500;
+	padding: 40rpx 0 14rpx;
+}
+.left-02 {
+	font-size: 52rpx;
+	font-family: PingFang-SC-Bold;
+	font-weight: bold;
+}
+.td-n02 {
+	margin: 40rpx 30rpx 30rpx;
+	width: 630rpx;
+	display: inline-block;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: 26rpx;
+	font-family: PingFang-SC-Medium;
+	height: 60rpx;
+	line-height: 60rpx;
+	background: rgba(84, 168, 255, 1);
+	border-radius: 30rpx;
+}
+.td-text01 {
+	margin-right: 50rpx;
+}
+.td-nav2 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 20rpx;
+}
+.td-nav2-b {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+	text-align: center;
+}
+.td-nav2-c {
+	font-size: 20rpx;
+	font-family: PingFang-SC-Regular;
+	font-weight: 400;
+	color: rgba(90, 106, 128, 1);
+	margin-bottom: 20rpx;
+}
+.td-nav2-d {
+	font-size: 28rpx;
+	font-family: PingFang-SC-Bold;
+	font-weight: bold;
+	color: rgba(34, 35, 37, 1);
+}
+.teamdji {
+	background: #3A96FF;
+	color: #FFFFFF;
+	font-size: 20rpx;
+	border-radius: 4rpx;
+	height: 40rpx;
+	line-height: 40rpx;
+	padding: 0 10rpx;
+	margin-left: 20rpx;
+}
+
